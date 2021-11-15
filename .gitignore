@@ -338,3 +338,19 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+/Assets/TextMesh Pro
+/Library/APIUpdater
+/Library/BurstCache/JIT
+/Library/PackageCache
+/Library/PackageManager
+/Library/ScriptAssemblies
+/Library/ShaderCache
+/Library/StateCache
+/Library/UIElements/EditorWindows
+/Library
+/Logs
+/ProjectSettings
+/Temp
+/UserSettings
+/Assets/Game/FastNoise Unity/FastNoise/Documentation.rtf
+/Assets/Game/FastNoise Unity/FastNoise SIMD/Documentation.rtf
